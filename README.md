@@ -1,8 +1,8 @@
-# challengeJavaMegasena 🍀
+# challengeJavaMegaSena 🍀
 
-Exercício realizado em grupo proposto no curso Carreira Desenvolvedor Back End do Vai na Web.
+Exercício realizado em grupo proposto no curso Carreira Desenvolvedor BackEnd do Vai na Web.
 
-# Rgras do exercício
+# Regras do exercício
 
 → O usuário precisa escolher 7 números de 0 a 100.
 
