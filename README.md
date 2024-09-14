@@ -1,6 +1,6 @@
 # challengeJavaMegaSena 🍀
 
-Exercício realizado em grupo proposto no curso Carreira Desenvolvedor BackEnd do Vai na Web.
+Exercício proposto no curso Carreira Desenvolvedor BackEnd do Vai na Web.
 
 # Regras do exercício
 
