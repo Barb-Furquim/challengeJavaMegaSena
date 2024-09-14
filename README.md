@@ -1,22 +1,22 @@
-# Mega Sena Java Challenge
+# Desafio Java Mega Sena
 
-* Exercise proposed in the Back-End Development course Vai na Web
+* Exercício proposto no curso de Desenvolvimento Back-End Vai na Web
 
-    → User needs to choose 7 numbers from 0 to 100.
-    
-    → It must be an integer. If the user enters another type of data, the program cannot stop.
-    
-    → The chosen numbers will have to be stored in a vector.
-    
-    → The 7 winning numbers will have to be drawn using Java's Random class.
-    
-    → After the end, go through the vector with the answers and compare with the 7 numbers drawn
-    
-    → If the user matches 5 numbers
-        - Prize of 10 thousand reais
-    
-    → If the user matches 6 numbers
-        - Prize of 50 thousand reais
-    
-    → If the user matches 7 numbers
-        - Prize of 200 thousand reais
+→ O usuário precisa escolher 7 números de 0 a 100.
+
+→ Deve ser um número inteiro. Se o usuário digitar outro tipo de dado, o programa não pode parar.
+
+→ Os números escolhidos terão que ser armazenados em um vetor.
+
+→ Os 7 números ganhadores terão que ser sorteados usando a classe Random do Java.
+
+→ Após o término, percorra o vetor com as respostas e compare com os 7 números sorteados
+
+→ Se o usuário acertar 5 números
+- Prêmio de 10 mil reais
+
+→ Se o usuário acertar 6 números
+- Prêmio de 50 mil reais
+
+→ Se o usuário acertar 7 números
+- Prêmio de 200 mil reais
